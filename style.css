@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 *{
     margin: 0px 0px;
     padding: 0px 0px;
 }
 body{
-    background: linear-gradient(to right, #f4791f, #659999); 
+    background: linear-gradient(to right, #1fe9f4, #659999); 
     min-height: 100vh;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Roboto', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(https://unsplash.com/photos/flRm0z3MEoA);
+    background-image: url();
 }
 
 .box2{
@@ -37,7 +37,7 @@ body{
     border-radius: 5px;
     box-shadow: 0px 5px 10px rgb(106, 94, 94) ;
     opacity: 0.9;
-    background: linear-gradient(to right, #df736a, #c7623d); 
+    background: linear-gradient(to right, #6acedf, #3dc7c5); 
 }
 
 input{
@@ -48,10 +48,10 @@ input{
     border: none;
     outline-style: none;
     border-radius: 5px;
-    background: #666;
+    background: rgb(102, 102, 102);
     color:#fff;
     font-size: 20px;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Roboto', sans-serif;
 
 }
 button{
@@ -63,7 +63,7 @@ button{
     border-radius: 5px;
     background: #666;
     text-align: center;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 button:hover{
     opacity: 0.7;
@@ -72,7 +72,7 @@ button:hover{
 input::placeholder{
     color: #fff;
     padding-left: 10px;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-weight: 500;
 }
