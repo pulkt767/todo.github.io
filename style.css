@@ -13,7 +13,7 @@ body{
     align-items: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-image: url(https://unsplash.com/photos/flRm0z3MEoA);
 }
 
 .box2{
@@ -22,7 +22,7 @@ body{
 }
 
 .add{
-    font-size: 20px;
+    font-size: 30px;
     margin: 10px 10px;
     padding: 10px 20px;
 }
